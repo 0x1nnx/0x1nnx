@@ -1,6 +1,6 @@
 <h1 align="center">✦ 0x1nnx ✦</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9C%A6%20Cybersecurity%20student%20%C2%B7%20Future%20Penetration%20Tester%20%E2%9C%A6&fontAlignY=50&fontSize=18&fontColor=FF7AD9&height=72&animation=blink" alt="tagline" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9C%A6%20Cybersecurity%20student%20%C2%B7%20Future%20Penetration%20Tester%20%E2%9C%A6&fontAlignY=50&fontSize=18&fontColor=ffa7f4&height=72&animation=blink" alt="tagline" />
 </p>
 
 ---
