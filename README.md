@@ -1,14 +1,6 @@
-# `whoami`
-
-```bash
-┌──(0x1nnx㉿github)-[~/about-me]
-└─$ whoami
-
-Cybersecurity Student | Pentesting Enthusiast | Offensive Security Learner
-```
-
+<h1 align="center">✦ 0x1nnx ✦</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff58eb&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Offensive+Security+Enthusiast;Future+Penetration+Tester;CTF+Player;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9C%A6%20Cybersecurity%20student%20%C2%B7%20Future%20Penetration%20Tester%20%E2%9C%A6&fontAlignY=50&fontSize=18&fontColor=FF7AD9&height=72&animation=blink" alt="tagline" />
 </p>
 
 ---
