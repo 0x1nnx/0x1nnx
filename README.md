@@ -8,7 +8,7 @@ Cybersecurity Student | Pentesting Enthusiast | Offensive Security Learner
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Offensive+Security+Enthusiast;Future+Penetration+Tester;CTF+Player;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff58eb&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Offensive+Security+Enthusiast;Future+Penetration+Tester;CTF+Player;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
 </p>
 
 ---
